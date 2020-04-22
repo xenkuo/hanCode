@@ -8,9 +8,9 @@
 
 `techo` has a very good display effect for Chinese or Japanese character. To make alphabet and source code display at the same level, `hanCode` made some specific modifications. `hanCode` has below features:
 
-* Most harmonious display for Hanzi, alphabet and source code mixture.
-* A clean color scheme for programer.
-* Distinct heads: H1 lies in center, H2 and H3 has different bottom border and H4, H5 has no border. 
+- Most harmonious display for Hanzi, alphabet and source code mixture.
+- A clean color scheme for programmer.
+- Distinct heads: H1 lies in center, H2 and H3 has different bottom border and H4, H5 has no border.
 
 ![preview.png](image/preview.png)
 
