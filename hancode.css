@@ -489,9 +489,8 @@ html {
 
 [mdtype="table_row"] > th,
 [mdtype="table_row"] > td {
-  border: 1px solid #ddd;
-  padding: 0.5em 1em;
-  color: rgba(110, 72, 50, 0.74);
+  border: 1px solid #eee;
+  padding: 0.1em 0.4em;
 }
 
 #write table th,
@@ -501,7 +500,7 @@ html {
 
 #write table thead th,
 #write-table thead th {
-  background: rgba(251, 240, 211, 0.76);
+  font-weight: bold;
 }
 
 #write table caption {
